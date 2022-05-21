@@ -1,0 +1,12 @@
+C:\Users\NITTIN\Desktop\ASPNET Core Projects\BookShoppingProject_15\BookShoppingProject.Utility\bin\Debug\net5.0\BookShoppingProject.Utility.deps.json
+C:\Users\NITTIN\Desktop\ASPNET Core Projects\BookShoppingProject_15\BookShoppingProject.Utility\bin\Debug\net5.0\BookShoppingProject.Utility.dll
+C:\Users\NITTIN\Desktop\ASPNET Core Projects\BookShoppingProject_15\BookShoppingProject.Utility\bin\Debug\net5.0\ref\BookShoppingProject.Utility.dll
+C:\Users\NITTIN\Desktop\ASPNET Core Projects\BookShoppingProject_15\BookShoppingProject.Utility\bin\Debug\net5.0\BookShoppingProject.Utility.pdb
+C:\Users\NITTIN\Desktop\ASPNET Core Projects\BookShoppingProject_15\BookShoppingProject.Utility\obj\Debug\net5.0\BookShoppingProject.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NITTIN\Desktop\ASPNET Core Projects\BookShoppingProject_15\BookShoppingProject.Utility\obj\Debug\net5.0\BookShoppingProject.Utility.AssemblyInfoInputs.cache
+C:\Users\NITTIN\Desktop\ASPNET Core Projects\BookShoppingProject_15\BookShoppingProject.Utility\obj\Debug\net5.0\BookShoppingProject.Utility.AssemblyInfo.cs
+C:\Users\NITTIN\Desktop\ASPNET Core Projects\BookShoppingProject_15\BookShoppingProject.Utility\obj\Debug\net5.0\BookShoppingProject.Utility.csproj.CoreCompileInputs.cache
+C:\Users\NITTIN\Desktop\ASPNET Core Projects\BookShoppingProject_15\BookShoppingProject.Utility\obj\Debug\net5.0\BookShoppingProject.Utility.dll
+C:\Users\NITTIN\Desktop\ASPNET Core Projects\BookShoppingProject_15\BookShoppingProject.Utility\obj\Debug\net5.0\ref\BookShoppingProject.Utility.dll
+C:\Users\NITTIN\Desktop\ASPNET Core Projects\BookShoppingProject_15\BookShoppingProject.Utility\obj\Debug\net5.0\BookShoppingProject.Utility.pdb
+C:\Users\NITTIN\Desktop\ASPNET Core Projects\BookShoppingProject_15\BookShoppingProject.Utility\obj\Debug\net5.0\BookShoppingProject.Utility.csprojAssemblyReference.cache
